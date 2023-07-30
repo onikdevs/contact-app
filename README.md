@@ -1,4 +1,4 @@
-# initialize a json server with db.json file on localhost:4000
+# initialize a [json server](https://github.com/typicode/json-server) with db.json file on localhost:4000
 
 
 
